@@ -1,0 +1,11 @@
+C:\Users\III\Desktop\Github\HomeWork5\HomeWork5\bin\Debug\netcoreapp2.0\HomeWork5.deps.json
+C:\Users\III\Desktop\Github\HomeWork5\HomeWork5\bin\Debug\netcoreapp2.0\HomeWork5.runtimeconfig.json
+C:\Users\III\Desktop\Github\HomeWork5\HomeWork5\bin\Debug\netcoreapp2.0\HomeWork5.runtimeconfig.dev.json
+C:\Users\III\Desktop\Github\HomeWork5\HomeWork5\bin\Debug\netcoreapp2.0\HomeWork5.dll
+C:\Users\III\Desktop\Github\HomeWork5\HomeWork5\bin\Debug\netcoreapp2.0\HomeWork5.pdb
+C:\Users\III\Desktop\Github\HomeWork5\HomeWork5\obj\Debug\netcoreapp2.0\HomeWork5.csprojAssemblyReference.cache
+C:\Users\III\Desktop\Github\HomeWork5\HomeWork5\obj\Debug\netcoreapp2.0\HomeWork5.csproj.CoreCompileInputs.cache
+C:\Users\III\Desktop\Github\HomeWork5\HomeWork5\obj\Debug\netcoreapp2.0\HomeWork5.AssemblyInfoInputs.cache
+C:\Users\III\Desktop\Github\HomeWork5\HomeWork5\obj\Debug\netcoreapp2.0\HomeWork5.AssemblyInfo.cs
+C:\Users\III\Desktop\Github\HomeWork5\HomeWork5\obj\Debug\netcoreapp2.0\HomeWork5.dll
+C:\Users\III\Desktop\Github\HomeWork5\HomeWork5\obj\Debug\netcoreapp2.0\HomeWork5.pdb
